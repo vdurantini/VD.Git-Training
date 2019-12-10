@@ -1,0 +1,4 @@
+- Pane
+- Pasta
+- Frutta
+- Verdura
