@@ -2,3 +2,5 @@
 - Pasta
 - Frutta
 - Verdura
+- Sale
+- Pepe
